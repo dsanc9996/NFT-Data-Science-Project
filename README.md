@@ -25,6 +25,7 @@ I would like to look at the largest marketplace OpenSea. They have the following
 
 We can perform an analysis of each category and gather characteristics that focus on two things
 
+
   -The NFT itself
   
   -The NFT creator
@@ -33,6 +34,7 @@ We can perform an analysis of each category and gather characteristics that focu
 The goal would be to utilize a dependent variable of successful sale for an item within the collection or the collection as a whole. We could also measure the speed to sale (time from minting to first sale) and the volume of sales. 
 
 For independent variables we could use the following:
+
   -characteristics of the NFT and the NFT creators (described in the following pages)
   
   -Twitter activity (amount of tweets, retweets)
