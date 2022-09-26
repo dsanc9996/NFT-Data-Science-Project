@@ -55,7 +55,10 @@ For independent variables we could use the following:
 Once we have gathered the data we could then identify the traits that are associated with successful sales of NFTs. 
 
 When we look at an NFT on OpenSea you can see various characteristics, they include the following:
-  -NFT name
+
+ 
+ -NFT name
+  
   
   -NFT creator
   
@@ -81,6 +84,7 @@ When we look at an NFT on OpenSea you can see various characteristics, they incl
   
  
 You can also identify characteristics of the NFT creator, they include the following:
+
   -Creator name
   
   -Description
