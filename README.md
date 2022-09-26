@@ -19,6 +19,8 @@ I would like to look at the largest marketplace OpenSea. They have the following
   
   -Virtual Worlds
   
+  
+
 
 
 We can perform an analysis of each category and gather characteristics that focus on two things
