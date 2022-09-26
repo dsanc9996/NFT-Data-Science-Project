@@ -2,6 +2,7 @@
 I would like to look at the largest marketplace OpenSea. They have the following categories of NFTs:
 
   -Art
+  
   -Collectibles
   -Domain Names
   -Music
